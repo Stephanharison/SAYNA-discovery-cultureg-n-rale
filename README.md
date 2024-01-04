@@ -1,2 +1,2 @@
-# SAYNA-discovery-cultureg-n-rale
+# SAYNA-discovery-culturegénérale
 Initiation à la Culture Générale
